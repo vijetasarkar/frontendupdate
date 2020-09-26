@@ -1,0 +1,131 @@
+#head
+{
+    color: white;
+    font-weight: 700;
+}
+
+
+#add
+{
+    background-color:#007FFF ;
+    color: white;
+    font-weight: 500;
+    margin: 0cm;
+    padding-top: 0px;
+    padding-bottom:0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#add:hover
+{
+    background-color: #436eee;
+    padding-top: 1px;
+    padding-bottom:1px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+#ExtoEx
+{
+    background-color: #D3D3D3;
+    font-weight: 500;
+    padding-top: 0px;
+    padding-bottom:0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#ExtoEx:hover
+{
+    background-color: #436eee;
+    color:white;
+    padding-top: 1px;
+    padding-bottom:1px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+
+}
+thead
+{
+    background-color: #D3D3D3;
+
+}
+#topnav
+{
+    background-color: #44474B !important;
+}
+#log
+{
+    background-color: white;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-right:15px;
+    padding-left:15px;
+    font-weight: 550;
+    
+}
+#log:hover
+{
+    background-color:#007FFF;
+    color: white;
+    font-weight:2em ;
+    padding-top:2px;
+    padding-bottom:2px;
+    padding-right:20px;
+    padding-left:20px;
+    
+    
+}
+#a
+{
+    font-weight:500;
+    font-size: 15px;
+    color:#007FFF;
+    background-color: white;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-right:15px;
+    padding-left:15px;
+    
+}
+#a:hover
+{
+    background-color:#007FFF;
+    color: white;
+    font-size: 16px;
+    padding-top:1px;
+    padding-bottom:1px;
+    padding-right:16px;
+    padding-left:16px;
+    
+    
+
+}
+.pagination {
+    display: inline-block;
+  }
+  
+  .pagination a {
+    color: #007FFF;
+    float: left;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:8px;
+    padding-left:8px;
+    
+    text-decoration: none;
+  }
+  
+  .pagination a.active {
+    background-color:#007FFF ;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active)
+   {
+       background-color: #ddd;
+    }
+#page
+{
+    float: right;
+}
